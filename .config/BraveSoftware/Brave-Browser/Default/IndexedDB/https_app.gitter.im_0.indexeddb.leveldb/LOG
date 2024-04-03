@@ -1,0 +1,53 @@
+2024/03/16-08:39:05.736 d6de Creating DB /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitter.im_0.indexeddb.leveldb since it was missing.
+2024/03/16-08:39:05.743 d6de Reusing MANIFEST /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitter.im_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-08:39:10.437 d6e3 Level-0 table #5: started
+2024/03/16-08:39:10.438 d6e3 Level-0 table #5: 3089 bytes OK
+2024/03/16-08:39:10.439 d6e3 Delete type=0 #3
+2024/03/16-08:39:10.440 d6e3 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/16-08:39:10.440 d6e3 Level-0 table #7: started
+2024/03/16-08:39:10.441 d6e3 Level-0 table #7: 562 bytes OK
+2024/03/16-08:39:10.442 d6e3 Delete type=0 #4
+2024/03/16-08:39:10.442 d6e3 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/16-08:39:10.443 d6df Level-0 table #9: started
+2024/03/16-08:39:10.444 d6df Level-0 table #9: 547 bytes OK
+2024/03/16-08:39:10.448 d6df Delete type=0 #6
+2024/03/16-08:39:10.448 d6df Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 219 : 1
+2024/03/16-08:39:10.448 d6df Compacting 1@0 + 1@1 files
+2024/03/16-08:39:10.449 d6df Generated table #10@0: 14 keys, 543 bytes
+2024/03/16-08:39:10.449 d6df Compacted 1@0 + 1@1 files => 543 bytes
+2024/03/16-08:39:10.450 d6df compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/16-08:39:10.450 d6df Delete type=2 #9
+2024/03/16-08:39:10.450 d6df Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 219 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/16-08:39:14.498 d6de Level-0 table #12: started
+2024/03/16-08:39:14.499 d6de Level-0 table #12: 12087 bytes OK
+2024/03/16-08:39:14.500 d6de Delete type=0 #8
+2024/03/16-08:39:14.500 d6de Delete type=2 #7
+2024/03/16-08:39:14.500 d6de Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 1208 : 1
+2024/03/16-08:39:14.500 d6de Compacting 1@0 + 1@1 files
+2024/03/16-08:39:14.502 d6de Generated table #13@0: 539 keys, 6261 bytes
+2024/03/16-08:39:14.502 d6de Compacted 1@0 + 1@1 files => 6261 bytes
+2024/03/16-08:39:14.503 d6de compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/16-08:39:14.503 d6de Delete type=2 #12
+2024/03/16-08:39:14.503 d6de Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 1208 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/16-08:39:14.518 d6df Level-0 table #15: started
+2024/03/16-08:39:14.519 d6df Level-0 table #15: 10051 bytes OK
+2024/03/16-08:39:14.520 d6df Delete type=0 #11
+2024/03/16-08:39:14.520 d6df Delete type=2 #10
+2024/03/16-08:39:14.520 d6df Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 1251 : 1
+2024/03/16-08:39:14.520 d6df Compacting 1@0 + 1@1 files
+2024/03/16-08:39:14.521 d6df Generated table #16@0: 555 keys, 15683 bytes
+2024/03/16-08:39:14.521 d6df Compacted 1@0 + 1@1 files => 15683 bytes
+2024/03/16-08:39:14.523 d6df compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/16-08:39:14.523 d6df Delete type=2 #15
+2024/03/16-08:39:14.523 d6df Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 1251 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/16-08:39:14.541 d6e3 Level-0 table #18: started
+2024/03/16-08:39:14.542 d6e3 Level-0 table #18: 766 bytes OK
+2024/03/16-08:39:14.544 d6e3 Delete type=2 #13
+2024/03/16-08:39:14.544 d6e3 Delete type=0 #14
+2024/03/16-08:39:14.545 d6df Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 1282 : 1
+2024/03/16-08:39:14.545 d6df Compacting 1@0 + 1@1 files
+2024/03/16-08:39:14.546 d6df Generated table #19@0: 565 keys, 15675 bytes
+2024/03/16-08:39:14.546 d6df Compacted 1@0 + 1@1 files => 15675 bytes
+2024/03/16-08:39:14.547 d6df compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/16-08:39:14.547 d6df Delete type=2 #18
+2024/03/16-08:39:14.547 d6df Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 1282 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

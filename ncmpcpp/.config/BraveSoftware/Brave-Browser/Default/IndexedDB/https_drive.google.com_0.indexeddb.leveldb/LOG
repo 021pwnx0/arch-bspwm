@@ -1,0 +1,26 @@
+2024/03/18-11:30:39.797 45b Creating DB /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2024/03/18-11:30:39.799 45b Reusing MANIFEST /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/18-11:30:43.588 45c Level-0 table #5: started
+2024/03/18-11:30:43.624 45c Level-0 table #5: 1275197 bytes OK
+2024/03/18-11:30:43.626 45c Delete type=0 #3
+2024/03/18-11:30:43.658 45c Level-0 table #7: started
+2024/03/18-11:30:43.672 45c Level-0 table #7: 1384810 bytes OK
+2024/03/18-11:30:43.674 45c Delete type=0 #4
+2024/03/18-11:30:43.675 45c Compacting 1@1 + 1@2 files
+2024/03/18-11:30:43.700 45c Generated table #8@1: 10815 keys, 2138953 bytes
+2024/03/18-11:30:43.706 45c Generated table #9@1: 3272 keys, 480325 bytes
+2024/03/18-11:30:43.706 45c Compacted 1@1 + 1@2 files => 2619278 bytes
+2024/03/18-11:30:43.707 45c compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/03/18-11:30:43.730 45c Level-0 table #11: started
+2024/03/18-11:30:43.744 45c Level-0 table #11: 589552 bytes OK
+2024/03/18-11:30:43.746 45c Delete type=0 #6
+2024/03/18-11:30:43.746 45c Delete type=2 #7
+2024/03/18-11:30:43.746 45c Delete type=2 #5
+2024/03/18-11:30:50.893 45b Compacting 1@1 + 2@2 files
+2024/03/18-11:30:50.978 45b Generated table #12@1: 17880 keys, 2152176 bytes
+2024/03/18-11:30:50.994 45b Generated table #13@1: 8629 keys, 1036426 bytes
+2024/03/18-11:30:50.994 45b Compacted 1@1 + 2@2 files => 3188602 bytes
+2024/03/18-11:30:50.995 45b compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/03/18-11:30:50.995 45b Delete type=2 #9
+2024/03/18-11:30:50.995 45b Delete type=2 #11
+2024/03/18-11:30:50.995 45b Delete type=2 #8

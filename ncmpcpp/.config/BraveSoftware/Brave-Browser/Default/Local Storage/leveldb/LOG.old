@@ -1,0 +1,42 @@
+2024/04/03-09:11:43.272 4 Reusing MANIFEST /home/jota/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/04/03-09:11:43.274 4 Recovering log #515
+2024/04/03-09:11:43.276 4 Reusing old log /home/jota/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000515.log 
+2024/04/03-09:12:10.742 4 Level-0 table #519: started
+2024/04/03-09:12:10.748 4 Level-0 table #519: 133386 bytes OK
+2024/04/03-09:12:10.750 4 Delete type=0 #515
+2024/04/03-09:17:14.917 6 Level-0 table #521: started
+2024/04/03-09:17:14.923 6 Level-0 table #521: 133623 bytes OK
+2024/04/03-09:17:14.925 6 Delete type=0 #518
+2024/04/03-09:20:14.919 6 Level-0 table #523: started
+2024/04/03-09:20:14.929 6 Level-0 table #523: 109609 bytes OK
+2024/04/03-09:20:14.933 6 Delete type=0 #520
+2024/04/03-09:20:14.934 6 Compacting 4@0 + 1@1 files
+2024/04/03-09:20:14.946 6 Generated table #524@0: 2158 keys, 703028 bytes
+2024/04/03-09:20:14.946 6 Compacted 4@0 + 1@1 files => 703028 bytes
+2024/04/03-09:20:14.947 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/03-09:20:14.948 6 Delete type=2 #521
+2024/04/03-09:20:14.948 6 Delete type=2 #523
+2024/04/03-09:20:14.948 6 Delete type=2 #516
+2024/04/03-09:20:14.948 6 Delete type=2 #514
+2024/04/03-09:20:14.948 6 Delete type=2 #519
+2024/04/03-09:21:14.917 4 Level-0 table #526: started
+2024/04/03-09:21:14.926 4 Level-0 table #526: 143368 bytes OK
+2024/04/03-09:21:14.929 4 Delete type=0 #522
+2024/04/03-09:24:20.389 6 Level-0 table #528: started
+2024/04/03-09:24:20.400 6 Level-0 table #528: 144269 bytes OK
+2024/04/03-09:24:20.404 6 Delete type=0 #525
+2024/04/03-09:27:31.022 6 Level-0 table #530: started
+2024/04/03-09:27:31.028 6 Level-0 table #530: 229657 bytes OK
+2024/04/03-09:27:31.030 6 Delete type=0 #527
+2024/04/03-10:08:49.262 4 Level-0 table #532: started
+2024/04/03-10:08:49.267 4 Level-0 table #532: 20166 bytes OK
+2024/04/03-10:08:49.277 4 Delete type=0 #529
+2024/04/03-10:08:49.278 4 Compacting 4@0 + 1@1 files
+2024/04/03-10:08:49.309 4 Generated table #533@0: 2281 keys, 829276 bytes
+2024/04/03-10:08:49.310 4 Compacted 4@0 + 1@1 files => 829276 bytes
+2024/04/03-10:08:49.312 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/03-10:08:49.314 4 Delete type=2 #532
+2024/04/03-10:08:49.314 4 Delete type=2 #524
+2024/04/03-10:08:49.314 4 Delete type=2 #530
+2024/04/03-10:08:49.314 4 Delete type=2 #528
+2024/04/03-10:08:49.314 4 Delete type=2 #526

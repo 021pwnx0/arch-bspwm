@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/jota/Media/Pictures/Wallpapers/617631.jpg' 

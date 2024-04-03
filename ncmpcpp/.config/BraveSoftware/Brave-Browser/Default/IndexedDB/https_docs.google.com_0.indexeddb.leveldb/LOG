@@ -1,0 +1,6 @@
+2024/03/18-11:30:45.359 45b Creating DB /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2024/03/18-11:30:45.362 45b Reusing MANIFEST /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/18-12:15:16.105 45c Level-0 table #5: started
+2024/03/18-12:15:16.107 45c Level-0 table #5: 8361 bytes OK
+2024/03/18-12:15:16.110 45c Delete type=0 #3
+2024/03/18-12:15:16.111 45c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

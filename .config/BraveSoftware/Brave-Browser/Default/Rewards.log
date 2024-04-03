@@ -1,0 +1,373 @@
+--------------------------------------------------------------------------------
+[15 de mar. de 2024, 7:38:36,1 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[15 de mar. de 2024, 7:38:36,8 PM:ERROR:refill_confirmation_tokens.cc(197)] Failed to get signed tokens
+[15 de mar. de 2024, 7:39:36,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 7:39:56,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 7:51:58,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 7:52:10,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 7:56:44,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:05:34,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:10:25,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:14:17,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:24:56,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:25:43,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:25:43,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:26:13,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:26:13,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:32:14,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 8:47:54,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[15 de mar. de 2024, 10:14:23,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 10:15:14,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 10:16:34,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[15 de mar. de 2024, 10:20:33,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 10:22:22,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[15 de mar. de 2024, 11:02:23,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 11:15:28,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[15 de mar. de 2024, 11:38:06,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[16 de mar. de 2024, 8:29:08,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 8:29:12,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 8:34:59,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 8:34:59,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 8:39:00,0 AM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[16 de mar. de 2024, 10:08:16,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 10:08:16,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 10:11:45,6 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 10:11:45,6 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 10:12:28,1 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 10:12:28,1 AM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 10:18:41,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[16 de mar. de 2024, 12:06:01,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 12:06:01,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 12:34:29,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[16 de mar. de 2024, 12:37:00,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 12:37:00,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 1:32:03,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[16 de mar. de 2024, 2:03:31,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[16 de mar. de 2024, 2:03:33,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[16 de mar. de 2024, 2:05:03,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[16 de mar. de 2024, 2:08:20,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[16 de mar. de 2024, 9:11:37,2 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+--------------------------------------------------------------------------------
+[17 de mar. de 2024, 4:22:56,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[17 de mar. de 2024, 4:22:56,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[17 de mar. de 2024, 8:33:35,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[17 de mar. de 2024, 9:11:37,5 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+--------------------------------------------------------------------------------
+[17 de mar. de 2024, 10:19:09,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[17 de mar. de 2024, 10:21:35,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[17 de mar. de 2024, 10:21:35,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[17 de mar. de 2024, 10:21:38,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[17 de mar. de 2024, 10:28:34,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[17 de mar. de 2024, 10:42:07,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[17 de mar. de 2024, 10:55:05,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[18 de mar. de 2024, 6:56:54,0 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 8:58:38,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 9:01:11,3 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 9:14:23,3 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 9:14:39,3 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 9:15:54,0 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 9:19:32,1 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 10:20:24,5 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 10:22:57,3 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[18 de mar. de 2024, 11:30:26,1 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 11:33:57,7 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 11:50:05,5 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 11:54:25,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 12:18:53,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[18 de mar. de 2024, 5:50:19,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 5:50:19,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 5:52:04,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 5:54:32,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 5:54:32,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 6:20:54,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 6:40:03,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 6:44:47,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 6:53:51,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 7:26:56,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[18 de mar. de 2024, 7:29:21,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[18 de mar. de 2024, 7:38:51,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[20 de mar. de 2024, 1:21:10,0 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[20 de mar. de 2024, 1:22:39,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[20 de mar. de 2024, 1:23:09,9 PM:ERROR:refill_confirmation_tokens.cc(197)] Failed to get signed tokens
+[20 de mar. de 2024, 1:23:25,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[20 de mar. de 2024, 1:54:29,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[20 de mar. de 2024, 2:37:21,5 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[20 de mar. de 2024, 4:16:06,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[20 de mar. de 2024, 4:16:06,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[20 de mar. de 2024, 4:16:31,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[20 de mar. de 2024, 4:16:31,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[20 de mar. de 2024, 4:16:51,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[20 de mar. de 2024, 4:52:06,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[20 de mar. de 2024, 5:00:28,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[20 de mar. de 2024, 5:17:30,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[20 de mar. de 2024, 5:17:30,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[20 de mar. de 2024, 5:18:50,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[20 de mar. de 2024, 6:11:22,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[20 de mar. de 2024, 6:14:44,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[21 de mar. de 2024, 10:12:50,1 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 10:13:01,5 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 10:13:58,0 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 10:13:58,0 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 10:23:29,2 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 10:30:23,7 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 10:49:08,5 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 10:49:28,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 10:49:28,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 10:59:31,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 11:10:04,8 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 11:10:04,8 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 11:10:04,8 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 11:48:17,4 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 11:48:37,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 11:54:20,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 11:54:20,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 12:07:34,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Failed to fetch payment token
+[21 de mar. de 2024, 12:07:59,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Failed to fetch payment token
+[21 de mar. de 2024, 12:07:59,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Failed to fetch payment token
+[21 de mar. de 2024, 12:08:25,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Failed to fetch payment token
+[21 de mar. de 2024, 12:16:42,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Failed to fetch payment token
+[21 de mar. de 2024, 12:18:00,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 12:18:21,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 12:21:23,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 12:28:50,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 12:28:50,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[21 de mar. de 2024, 12:32:24,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 12:51:52,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[21 de mar. de 2024, 12:55:54,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[22 de mar. de 2024, 11:15:08,3 AM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[22 de mar. de 2024, 11:16:25,2 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 11:18:16,2 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 12:15:19,5 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 12:17:01,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 12:19:48,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 12:19:48,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 1:19:29,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 1:19:29,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 1:19:29,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 1:19:29,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 1:38:36,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 1:38:36,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 2:45:50,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 2:56:43,5 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[22 de mar. de 2024, 3:43:22,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 4:06:03,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 4:06:03,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 4:06:16,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[22 de mar. de 2024, 6:23:20,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 6:48:08,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 8:49:07,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:05:04,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 9:05:05,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 9:09:35,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 9:24:07,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 9:25:47,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 9:36:14,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[22 de mar. de 2024, 9:43:04,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:44:21,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:44:21,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:53:42,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:53:42,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:54:09,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:54:09,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:54:09,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:54:20,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[22 de mar. de 2024, 9:54:20,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[23 de mar. de 2024, 12:40:29,4 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+--------------------------------------------------------------------------------
+[23 de mar. de 2024, 5:14:13,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 5:29:21,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 5:52:31,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[23 de mar. de 2024, 5:56:22,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 5:56:22,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 6:25:35,0 PM:ERROR:publisher.cc(713)] Failed to retrieve publisher info while updating media duration
+[23 de mar. de 2024, 6:25:35,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 6:32:29,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 6:32:50,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 6:33:14,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 6:36:18,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 6:40:56,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 7:03:56,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 7:20:09,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 7:30:52,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[23 de mar. de 2024, 7:55:15,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[23 de mar. de 2024, 11:19:22,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[23 de mar. de 2024, 11:20:37,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[23 de mar. de 2024, 11:20:38,0 PM:ERROR:refill_confirmation_tokens.cc(197)] Failed to get signed tokens
+[23 de mar. de 2024, 11:26:04,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[23 de mar. de 2024, 11:26:30,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[24 de mar. de 2024, 12:56:41,3 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[24 de mar. de 2024, 12:57:03,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 12:58:06,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 12:58:17,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[24 de mar. de 2024, 9:48:44,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 9:48:44,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 9:50:02,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 9:50:07,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 9:51:05,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 9:54:52,5 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 9:55:22,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 9:57:47,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 9:57:47,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 10:01:24,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:08:09,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:10:31,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:12:38,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:14:09,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:14:53,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 10:15:51,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 10:16:20,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:23:18,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:24:24,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:24:55,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:27:04,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 10:27:04,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 10:27:04,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[24 de mar. de 2024, 10:28:57,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:30:31,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:36:10,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:37:04,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:41:33,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[24 de mar. de 2024, 10:44:02,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[25 de mar. de 2024, 11:24:18,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 11:27:10,3 AM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 11:29:00,6 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 11:29:31,8 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 11:37:56,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 11:37:56,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 12:54:05,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 12:54:05,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 12:54:05,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 12:56:42,1 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[25 de mar. de 2024, 1:03:27,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 1:33:28,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 1:33:28,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 1:33:39,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 2:28:22,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 2:28:44,8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 2:28:51,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 3:05:04,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 3:05:04,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 3:22:18,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[25 de mar. de 2024, 5:22:58,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[25 de mar. de 2024, 5:22:58,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[25 de mar. de 2024, 9:33:14,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 9:33:33,5 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 9:56:06,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 9:56:07,4 PM:ERROR:refill_confirmation_tokens.cc(197)] Failed to get signed tokens
+[25 de mar. de 2024, 9:57:00,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[25 de mar. de 2024, 10:03:05,0 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[26 de mar. de 2024, 12:14:12,3 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[26 de mar. de 2024, 12:15:42,4 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[26 de mar. de 2024, 12:21:24,7 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[26 de mar. de 2024, 12:22:40,8 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[26 de mar. de 2024, 3:37:27,9 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[26 de mar. de 2024, 3:37:46,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[26 de mar. de 2024, 3:40:33,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[26 de mar. de 2024, 3:40:33,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[26 de mar. de 2024, 3:49:41,2 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+--------------------------------------------------------------------------------
+[26 de mar. de 2024, 10:05:16,2 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[26 de mar. de 2024, 10:10:46,4 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[27 de mar. de 2024, 10:07:26,1 AM:ERROR:publisher.cc(625)] Publisher info not found
+[27 de mar. de 2024, 10:23:25,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[27 de mar. de 2024, 2:41:11,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[27 de mar. de 2024, 3:08:17,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[28 de mar. de 2024, 3:12:29,2 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[28 de mar. de 2024, 3:28:36,5 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+--------------------------------------------------------------------------------
+[29 de mar. de 2024, 3:05:42,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[29 de mar. de 2024, 3:28:35,6 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[29 de mar. de 2024, 3:30:10,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[29 de mar. de 2024, 3:40:57,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[29 de mar. de 2024, 3:41:07,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[29 de mar. de 2024, 3:43:00,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[29 de mar. de 2024, 3:49:02,9 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[29 de mar. de 2024, 3:51:04,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Failed to fetch payment token
+[29 de mar. de 2024, 3:51:20,9 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[29 de mar. de 2024, 4:03:41,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[29 de mar. de 2024, 6:14:09,3 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[31 de mar. de 2024, 8:50:00,0 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+--------------------------------------------------------------------------------
+[31 de mar. de 2024, 9:12:46,0 PM:ERROR:publisher.cc(713)] Failed to retrieve publisher info while updating media duration
+[31 de mar. de 2024, 9:12:46,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[31 de mar. de 2024, 11:37:45,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[01 de abr. de 2024, 11:26:30,8 AM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[01 de abr. de 2024, 8:37:18,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[01 de abr. de 2024, 8:40:40,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[01 de abr. de 2024, 8:41:06,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[01 de abr. de 2024, 9:54:04,3 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[01 de abr. de 2024, 9:57:18,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[01 de abr. de 2024, 9:57:19,7 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[01 de abr. de 2024, 9:59:54,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[01 de abr. de 2024, 10:04:10,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[01 de abr. de 2024, 10:13:10,1 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[01 de abr. de 2024, 10:13:45,7 PM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[01 de abr. de 2024, 10:17:52,6 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[01 de abr. de 2024, 10:20:29,6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[01 de abr. de 2024, 10:20:29,7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[01 de abr. de 2024, 10:37:19,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+--------------------------------------------------------------------------------
+[02 de abr. de 2024, 11:57:12,8 AM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 11:57:12,8 AM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 11:57:35,6 AM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:04:31,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:04:31,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:05:37,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:05:37,5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:06:54,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:06:54,2 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:17:45,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 12:17:45,4 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 1:12:09,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 1:13:13,8 PM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[02 de abr. de 2024, 1:19:13,3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 1:19:54,9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 1:34:13,0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 1:37:43,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[02 de abr. de 2024, 1:37:43,1 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[03 de abr. de 2024, 9:11:49,0 AM:ERROR:get_available.cc(63)] Unexpected HTTP status: 426
+[03 de abr. de 2024, 9:15:36,7 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[03 de abr. de 2024, 9:29:12,4 AM:ERROR:publisher.cc(625)] Publisher info not found
+[03 de abr. de 2024, 9:42:28,6 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready
+[03 de abr. de 2024, 10:08:45,9 AM:ERROR:publisher.cc(625)] Publisher info not found
+[03 de abr. de 2024, 10:10:13,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+[03 de abr. de 2024, 10:11:50,2 AM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[03 de abr. de 2024, 10:23:25,0 AM:ERROR:redeem_reward_confirmation.cc(141)] Payment token is not ready

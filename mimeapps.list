@@ -1,0 +1,13 @@
+[Default Applications]
+application/x-xz-compressed-tar=thunar-settings.desktop
+application/zip=thunar.desktop
+audio/mp4=thunar-volman-settings.desktop
+
+[Added Associations]
+application/x-xz-compressed-tar=thunar-settings.desktop;
+application/zip=thunar.desktop;
+audio/mp4=thunar-volman-settings.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;kitty-open.desktop;nvim.desktop;
+text/plain=org.xfce.mousepad.desktop;
+image/jpeg=feh.desktop;
+image/png=feh.desktop;

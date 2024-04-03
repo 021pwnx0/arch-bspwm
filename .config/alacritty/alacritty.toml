@@ -1,0 +1,68 @@
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.bright]
+black = "#89888a"
+blue = "#248D9E"
+cyan = "#5F96A0"
+green = "#1079A3"
+magenta = "#128CA3"
+red = "#296C8D"
+white = "#c4c3c6"
+yellow = "#56738E"
+
+[colors.cursor]
+cursor = "#c4c3c6"
+text = "#181020"
+
+[colors.normal]
+black = "#181020"
+blue = "#248D9E"
+cyan = "#5F96A0"
+green = "#1079A3"
+magenta = "#128CA3"
+red = "#296C8D"
+white = "#c4c3c6"
+yellow = "#56738E"
+
+[colors.primary]
+background = "#181020"
+foreground = "#c4c3c6"
+
+[cursor]
+blink_interval = 400
+
+[cursor.style]
+blinking = "on"
+shape = "Block"
+
+[font]
+size = 8.0
+
+[font.bold]
+family = "JetBrainsMonoNerdFontMono"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMonoNerdFontMono"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMonoNerdFontMono"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMonoNerdFontMono"
+style = "Regular"
+
+[mouse]
+hide_when_typing = true
+
+#[mouse.double_click]
+#threshold = 300
+
+#[mouse.triple_click]
+#threshold = 300
+
+[window]
+opacity = 0.6

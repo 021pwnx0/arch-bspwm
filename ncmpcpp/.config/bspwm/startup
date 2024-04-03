@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+
+################################################################
+## ███████ ████████  █████  ██████  ████████ ██    ██ ██████  ##
+## ██         ██    ██   ██ ██   ██    ██    ██    ██ ██   ██ ##
+## ███████    ██    ███████ ██████     ██    ██    ██ ██████  ##
+##      ██    ██    ██   ██ ██   ██    ██    ██    ██ ██      ##
+## ███████    ██    ██   ██ ██   ██    ██     ██████  ██      ##
+################################################################
+
+#-------- Bspwm config directory ---------------#
+BSPDIR="$HOME/.config/bspwm"
+
+#-------- Export bspwm/bin dir to PATH -----------#
+export PATH="${PATH}:$BSPDIR/scripts"
+export XDG_CURRENT_DESKTOP='bspwm'
+export _JAVA_AWT_WM_NONREPARENTING=1 # Run java applications without issues
+
+# Start bspwm scripts
+#bspbar
+bspcomp
+bspdunst
+bspfloat &
+flashfocus &
+#killall polybar; polybar -c ~/polybar/config.ini
+killall polybar; ~/.config/polybar/launch.sh
+#~/polybar/launch.sh
+nm-applet
+# CUSTOM CONFIGS
+#feh --bg-fill ~/Media/Pictures/Wallpapers/bg_60.png
+betterlockscreen -u ~/Media/Pictures/Wallpapers/4.jpg &
+killall greenclip;greenclip daemon
+
+# Enable Super Keys For Menu
+ksuperkey -e 'Super_L=Alt_L|F1' &
+ksuperkey -e 'Super_R=Alt_L|F1' &
+
+# Enable power management
+xfce4-power-manager &
+
+# Fix cursor
+xsetroot -cursor_name left_ptr
+
+# Restore wallpaper
+#bash ~/.fehbg
+
+# Start mpd
+killall mpd; exec mpd &

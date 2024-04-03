@@ -1,0 +1,6 @@
+2024/04/03-09:13:48.492 3b1 Reusing MANIFEST /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/03-09:13:48.492 3b1 Recovering log #11
+2024/04/03-09:13:48.505 3b1 Reusing old log /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2024/04/03-09:14:15.987 3b2 Level-0 table #17: started
+2024/04/03-09:14:16.001 3b2 Level-0 table #17: 2776600 bytes OK
+2024/04/03-09:14:16.003 3b2 Delete type=0 #11

@@ -1,0 +1,93 @@
+# echo "MultiVAC: \nINSUFFICIENT DATA FOR MEANINGFUL ANSWER\n" | lolcat
+# fortune -linux | cowsay -p -f moose.cow | lolcat
+# echo "System Initiated... bip bip boop\n" | lolcat
+# neofetch --config ~/.config/neofetch/arch-small | lolcat
+# <<--------- Visuals --------->>
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+# ZSH_THEME="darkblood"
+TERMINAL=kitty
+EDITOR=nvim
+ZSH_THEME="robbyrussell"
+
+# export http_proxy=http://127.0.0.1:37475
+# export https_proxy=https://127.0.0.1:37475
+# export http_proxy=socks5://127.0.0.1:43751
+
+# <<--------- General Settings --------->>
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+export ZSH="/home/core/.oh-my-zsh"
+export LIBBY_OUTPUT_DIR="~/Documents/Books/books/"
+export TERMINAL=kitty;
+export VISUAL=nvim;
+export EDITOR=nvim;
+# export OPENAI_API_KEY=
+zstyle ':omz:update' mode auto      # update automatically without asking
+plugins=(git archlinux zsh-syntax-highlighting zsh-autosuggestions fzf)
+source $ZSH/oh-my-zsh.sh
+export MANPATH="/usr/local/man:$MANPATH"
+export MUSIC_DIR="/home/core/Media/Music"
+export LANG=en_US.UTF-8
+# export CONDA_AUTO_ACTIVATE_BASE=false
+
+# <<--------- Aliases --------->>
+alias lf="lfub"
+alias v="nvim"
+alias sv="sudo nvim"
+alias py="python"
+alias snow="xsnow -notrees -norudolf -nosanta"
+alias jp="ipython"
+alias c="clear"
+alias zathura="~/.local/bin/zathura"
+alias cat="ccat"
+alias rah="cd /home/core/Documents/Repositories/rahriver/"
+alias webup="cd /home/core/Documents/Repositories/rahriver/ && git add . && git commit -m 'update' && git push -u org master"
+alias cp="advcp"
+alias mv="advmv"
+alias repo="cd ~/Documents/Repositories"
+alias primer3="primer3_core --format_output --p3_settings_file=/home/core/Temp/Programs/primer3/primer3_config.conf"
+alias vop="nvim ~/.config/polybar/config.ini"
+alias vsh="nvim ~/.zshrc"
+alias vwm="nvim ~/.config/i3/config"
+alias vplug="nvim ~/.config/nvim/plugins.vim"
+alias vint="nvim ~/.config/nvim/init.vim"
+alias p="sudo pacman"
+alias mind="markmap -w"
+alias ax="axel -a -c"
+alias fzf="fzf --preview 'bat --style=numbers --color=always --line-range :500 {}'"
+alias yt="youtube-dl --all-subs --add-metadata -i --output '/home/core/Media/Videos/Youtube/%(title)s.%(ext)s'"
+alias yta="yt --audio-format mp3 -x -f bestaudio/best"
+alias ytv="youtube-viewer"
+alias nf="neofetch --config ~/.config/neofetch/arch-small"
+alias cb="cd .."
+alias extract="tar -xvf"
+alias radio="curseradio"
+
+# <<--------- Autodock4 --------->> #
+
+
+# <<--------- PATH --------->>
+export PATH="/home/core/Temp/Programs/autodock4/bin:$PATH"
+export PATH=$PATH:/home/core/.config/scripts
+# export PATH=$PATH:/home/core/Temp/Programs/BLAST/bin/
+export PATH="/home/core/Temp/Programs/edirect:${PATH}"
+export PATH="/home/core/.local/bin:$PATH"
+export XDG_RUNTIME_DIR=/run/user/$(id -u)
+
+source ~/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/core/Temp/Programs/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/core/Temp/Programs/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/core/Temp/Programs/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/core/Temp/Programs/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<

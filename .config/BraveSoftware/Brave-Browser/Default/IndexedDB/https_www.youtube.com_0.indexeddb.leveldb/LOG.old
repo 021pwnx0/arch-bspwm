@@ -1,0 +1,21 @@
+2024/04/02-13:13:15.224 7d7 Reusing MANIFEST /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/02-13:13:15.225 7d7 Recovering log #145
+2024/04/02-13:13:15.228 7d7 Reusing old log /home/jota/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000145.log 
+2024/04/02-13:17:09.082 7d8 Level-0 table #150: started
+2024/04/02-13:17:09.093 7d8 Level-0 table #150: 1246474 bytes OK
+2024/04/02-13:17:09.095 7d8 Delete type=0 #145
+2024/04/02-13:19:01.441 7d7 Compacting 1@1 + 1@2 files
+2024/04/02-13:19:01.448 7d7 Generated table #151@1: 418 keys, 44297 bytes
+2024/04/02-13:19:01.448 7d7 Compacted 1@1 + 1@2 files => 44297 bytes
+2024/04/02-13:19:01.457 7d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/02-13:37:47.705 7d7 Level-0 table #153: started
+2024/04/02-13:37:47.713 7d7 Level-0 table #153: 1102370 bytes OK
+2024/04/02-13:37:47.715 7d7 Delete type=2 #150
+2024/04/02-13:37:47.715 7d7 Delete type=0 #149
+2024/04/02-13:37:47.715 7d7 Delete type=2 #147
+2024/04/02-13:38:10.589 7d8 Compacting 1@1 + 1@2 files
+2024/04/02-13:38:10.595 7d8 Generated table #154@1: 403 keys, 51182 bytes
+2024/04/02-13:38:10.595 7d8 Compacted 1@1 + 1@2 files => 51182 bytes
+2024/04/02-13:38:10.596 7d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/02-13:38:10.597 7d8 Delete type=2 #153
+2024/04/02-13:38:10.597 7d8 Delete type=2 #151
